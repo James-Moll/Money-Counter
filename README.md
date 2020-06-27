@@ -1,2 +1,2 @@
 # Money-Counter
-phyhon program that add up your money and gives a total
+python program that add up your money and gives a total
